@@ -1,0 +1,82 @@
+.outer-div{
+    margin: 30px;
+}
+.contact-label{
+    font-weight: bold;
+    font-size: 23px;
+}
+.contact-icon{
+    background:linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%) ;
+    color:white;
+    size: 12px;
+    margin-right:5px;
+}
+.search-grid{
+    /* margin: 10px; */
+    padding: 35px;
+}
+
+.search-button{
+    margin-left:5px;
+    /* flex: 1; */
+    
+}
+
+.search-icon{
+    color:#A9A9A9;
+    padding-left: 90%;
+    position: relative;
+    bottom: 20px;
+    
+    
+}
+.sort-by-text{
+    color: #A9A9A9;
+}
+.add-contact-button{
+    background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+    border: 0px;
+    border-radius: 3px;
+    box-shadow: 0 3px 5px 2px rgba(255, 105, 135, .3);
+    height: 40px;
+    color: white !important;
+
+}
+.add-contact-button-greed{
+    padding-top: 34px; 
+}
+
+.paper-class{
+    height: 70%;
+}
+
+
+.table-row-header{
+    background-color:#E6E6FA ;
+    font-weight: bolder;
+    
+}
+
+.avatar{
+    background-color: #FF1493 !important;
+    
+}
+.avatar1{
+    background-color: #006400 !important;
+    
+}
+
+.outer-div-display-contact{
+    background-color: #E6E6FA ;
+    margin-left: 5%;
+}
+
+.avatar3{
+    background-color: #FFA500 !important;
+    position: relative;
+    left:46%;
+}
+
+.placeHolder{
+    font-size: 5px;
+}
